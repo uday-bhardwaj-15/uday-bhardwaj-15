@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uday-bhardwaj-15&show_icons=true&locale=en" alt="uday-bhardwaj-15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&" alt="uday-bhardwaj-15" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=uday-bhardwaj-15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
