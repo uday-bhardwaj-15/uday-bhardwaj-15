@@ -11,10 +11,9 @@ Hi there! I, Uday Bhardwaj, pursuing a second-year BCA at Coer University, have 
 
 - 📄 Know about my experiences [https://chocolate-genni-31.tiiny.site/](https://chocolate-genni-31.tiiny.site/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uday-bhardwaj-b1373331a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-bhardwaj-b1373331a" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uday-bhardwaj-b1373331a/) 
+
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -41,6 +40,7 @@ Hi there! I, Uday Bhardwaj, pursuing a second-year BCA at Coer University, have 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=uday-bhardwaj-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&theme=dark&hide_border=false)<br/>
