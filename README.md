@@ -1,5 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Uday Bhardwaj</h1>
 <h3 align="center">A Passionate Web Developer & Software Engineering Enthusiast</h3>
+<p align="center">
+  I’m Uday Bhardwaj, a second-year BCA student at Coer University with a strong passion for web development and software engineering. I specialize in creating impactful web applications using TypeScript, HTML, CSS, JavaScript, ReactJs, and NextJs. My toolbox also includes MySQL, Prisma, Firebase, MongoDB, and tools like Hygraph, Clerk, NextAuth/Authjs, and RapidApi.
+</p>
+<p align="center">
+  Some of my projects include an e-commerce store with full authentication and payment gateway integration and an ERP system for student attendance. I enjoy building responsive, efficient web applications and am always striving for success in a collaborative team environment. I believe in continuous learning and am excited for the challenges ahead in tech.
+</p>
+<p align="center">
+  Connect with me if you'd like to collaborate or if I can be part of a solution to bring technology a little closer to its full potential!
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uday-bhardwaj-15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
