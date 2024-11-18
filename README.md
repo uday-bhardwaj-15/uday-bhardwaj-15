@@ -13,7 +13,9 @@
 - 👨‍💻 **Portfolio**: [udaybhardwaj.vercel.app](https://portfolio-pied-sigma.vercel.app/)  
 - 💬 **Ask me about**: React, Next.js, Prisma, Firebase, Tailwind CSS  
 - 📫 **Reach me at**: udaybhardwaj269@gmail.com  
-- 📄 **Resume**: [View Resume](https://chocolate-genni-31.tiiny.site/)  
+- 📄 **Resume**: [View Resume](https://chocolate-genni-31.tiiny.site/)
+  
+
 
 ---
 
