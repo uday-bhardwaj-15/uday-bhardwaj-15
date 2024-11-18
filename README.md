@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400"/>
+
 
 - 🌱 **Currently Learning**: GSAP Animations and advanced Next.js features  
 - 👨‍💻 **Portfolio**: [udaybhardwaj.vercel.app](https://portfolio-pied-sigma.vercel.app/)  
