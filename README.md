@@ -39,13 +39,6 @@ Hi there! I, Uday Bhardwaj, pursuing a second-year BCA at Coer University, have 
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=uday-bhardwaj-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uday-bhardwaj-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
