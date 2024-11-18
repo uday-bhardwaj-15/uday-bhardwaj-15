@@ -46,17 +46,18 @@ Hi there! I, Uday Bhardwaj, pursuing a second-year BCA at Coer University, have 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uday-bhardwaj-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <br />
 
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=radhikamalpani1702&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=uday-bhardwaj-15&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikamalpani1702&theme=ambient_gradient" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&theme=dark" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
@@ -66,7 +67,7 @@ Hi there! I, Uday Bhardwaj, pursuing a second-year BCA at Coer University, have 
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/radhikamalpani" target="_blank">
+  <a href="https://buymeacoffee.com/udaybhardwaj" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
