@@ -1,97 +1,94 @@
-<h1 align="center">Hi there 👋, I'm Uday Bhardwaj</h1>
-<h3 align="center">A Passionate Web Developer & Software Engineering Enthusiast</h3>
-<p align="center">
-  I’m Uday Bhardwaj, a second-year BCA student at Coer University with a strong passion for web development and software engineering. I specialize in creating impactful web applications using TypeScript, HTML, CSS, JavaScript, ReactJs, and NextJs. My toolbox also includes MySQL, Prisma, Firebase, MongoDB, and tools like Hygraph, Clerk, NextAuth/Authjs, and RapidApi.
-</p>
-<p align="center">
-  Some of my projects include an e-commerce store with full authentication and payment gateway integration and an ERP system for student attendance. I enjoy building responsive, efficient web applications and am always striving for success in a collaborative team environment. I believe in continuous learning and am excited for the challenges ahead in tech.
-</p>
-<p align="center">
-  Connect with me if you'd like to collaborate or if I can be part of a solution to bring technology a little closer to its full potential!
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uday-bhardwaj-15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+# Uday Bhardwaj
+### Full Stack Developer · Next.js · TypeScript · AI Systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-bhardwaj-b1373331a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/uday-bhardwaj/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-pied-sigma.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-udaybhardwaj269@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:udaybhardwaj269@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=uday-bhardwaj-15&color=0e75b6&style=flat-square)](https://github.com/uday-bhardwaj-15)
+
+</div>
 
 ---
 
+## About
 
+Full Stack Developer with 1+ year of experience shipping production-grade admin panels, SaaS platforms, and AI systems across 2 internships and 4 live client projects. I build end-to-end — from database schema and API design to UI delivery — with a focus on modular, scalable architecture.
 
-- 🌱 **Currently Learning**: GSAP Animations and advanced Next.js features  
-- 👨‍💻 **Portfolio**: [udaybhardwaj.vercel.app](https://portfolio-pied-sigma.vercel.app/)  
-- 💬 **Ask me about**: React, Next.js, Prisma, Firebase, Tailwind CSS  
-- 📫 **Reach me at**: udaybhardwaj269@gmail.com  
-- 📄 **Resume**: [View Resume](https://chocolate-genni-31.tiiny.site/)
-  
+Currently building at the intersection of AI and web systems.
 
-
----
-
-
-</br>
-
-## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/uday-bhardwaj-b1373331a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- 🔭 **Latest build**: [CuraLink AI](https://github.com/uday-bhardwaj-15) — Zero-hallucination medical research assistant (PubMed · OpenAlex · ClinicalTrials.gov · BM25 · Mistral)
+- 🎥 **Previous**: AI Video Calling SaaS — real-time calls, post-call transcripts, context-aware Q&A via OpenAI
+- 💼 **Experience**: Wecofy Technologies · Inxtinct Security · 4 freelance client projects
+- 📫 **Reach me**: udaybhardwaj269@gmail.com
 
 ---
 
-## 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Vuetify-%230196F7.svg?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/D3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+## Tech Stack
 
-</p>
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn%2Fui-%23000000.svg?style=flat-square&logo=shadcnui&logoColor=white)
 
----
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uday-bhardwaj-15&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-bhardwaj-15&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+**AI & Async**
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square&logo=ollama&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-%235C4EFF.svg?style=flat-square&logoColor=white)
+
+**Auth & Platforms**
+![Better Auth](https://img.shields.io/badge/Better_Auth-black?style=flat-square&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Sanity CMS](https://img.shields.io/badge/Sanity-%23F03E2F.svg?style=flat-square&logo=sanity&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uday-bhardwaj-15&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
+## Featured Projects
+
+### 🧬 CuraLink AI — Zero-Hallucination Medical Research Assistant
+> Next.js · Node.js · MongoDB · Mistral (Ollama) · PubMed API · OpenAlex · ClinicalTrials.gov · BM25
+
+Medical AI that physically cannot hallucinate. Fetches 250+ live records across 3 peer-reviewed databases, ranks them with a custom BM25 algorithm, and forces Mistral into strict JSON output. Any insight missing a citation is silently destroyed before delivery. Final gate returns "Not Enough Data" instead of guessing.
+
+`Multi-source retrieval` `Custom BM25 ranking` `Citation-gated output` `Multi-turn MongoDB persistence`
 
 ---
 
-<p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
-</p>
+### 🎥 AI Video Calling Platform
+> Next.js 15 · React 19 · Stream SDK · OpenAI · Inngest · Better Auth · PostgreSQL
 
-<p align="center">
-  <a href="https://buymeacoffee.com/udaybhardwaj" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
+Full-stack video calling SaaS with real-time calls, in-meeting chat, post-call AI summaries, transcript search, and context-aware Q&A. Async recording pipelines via Inngest. Subscription management via Polar.
+
+`Stream Video/Chat SDK` `Post-call AI intelligence` `Async Inngest pipelines` `PostgreSQL + Drizzle ORM`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=uday-bhardwaj-15&theme=dark&hide_border=true&show_icons=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-bhardwaj-15&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday-bhardwaj-15&theme=dark&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to full-stack and AI engineering roles in India 🇮🇳</i>
+</div>
